@@ -59,7 +59,7 @@ function filter(array) {
   return array.filter(function(str){
     if(str[0] === "a"){
       return str
-    };
+    }
   })
 }
 
